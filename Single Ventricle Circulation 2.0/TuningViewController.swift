@@ -16,6 +16,7 @@ class TuningViewController: UIViewController {
     }
     
     @IBAction func RunModel(_ sender: Any) {
+        return
     }
     
     @IBAction func MoreInputs(_ sender: Any) {
